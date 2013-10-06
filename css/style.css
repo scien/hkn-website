@@ -1,0 +1,82 @@
+/*
+Theme Name: Eta Kappa Nu
+Theme URI: 
+Author: the WordPress team
+Author URI: http://wordpress.org/
+Description: Website for Eta Kappa Nu Clarkson Gamma Gamma Chapter
+Text Domain: eta kappa nu
+
+green: #AEC48A
+dark green: #84A26C
+gold: #FFE591
+orange: #FFAF67
+dark orange: #C7654A
+*/
+
+html body {
+   background: #AEC48A;
+}
+.navbar {
+  background: white;
+  box-shadow: 0px 0px 8px #84A26C;
+  left: 50%;
+  margin-left: -490px;
+  position: fixed;
+  top: 0px;
+  width: 980px;
+}
+body.admin-bar .navbar {
+  top: 28px;
+} 
+
+#content {
+  height: 500px;
+  margin: 50px auto 0px;
+  width: 984px;
+}
+#main {
+  background: white;
+  box-shadow: 0px 0px 8px #84A26C;
+  float: left;
+  padding: 10px;
+  width: 640px;
+}
+#main > .title {
+  border-bottom: 1px solid #DDD;
+}
+#main .widgettitle {
+  border-bottom: 1px solid #DDD;
+  font-size: 24.5px;
+  line-height: 40px;
+}
+#main #ai1ec_agenda_widget-2 {
+  list-style: none;
+}
+#posts .post {
+  border-bottom: 1px solid #DDD;
+  clear: both;
+  margin-bottom: 10px;
+}
+#sidebar {
+  float: right;
+  width: 300px;
+}
+#twitter, #facebook, #logo {
+  background: white;
+  box-shadow: 0px 0px 8px #84A26C;
+  margin-bottom: 20px;
+  width: 300px;
+}
+#logo img {
+  margin: 10px;
+  width: 270px;
+}
+#facebook {
+  height: 300px;
+}
+.wp-post-image {
+  float: left;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  width: 100px;
+}
