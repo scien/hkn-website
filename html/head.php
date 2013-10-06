@@ -23,7 +23,7 @@
 
   <!-- stylesheets -->
   <link rel='stylesheet' href='/orgs/hkn/css/style.css' type='text/css' />
-  <link rel='stylesheet' href='/orgs/hkn/css/bootstrap.css' type='text/css' />
+  <link rel='stylesheet' href='http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.2/css/bootstrap.css' type='text/css' />
   
   <!-- javascript -->
   <script type='text/javascript' src='http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.2/bootstrap.js'></script>
